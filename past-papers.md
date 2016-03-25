@@ -13,6 +13,8 @@
 - [6. Write a program that converts a data of a class with inch and feet(user defined) to inches(float). ](https://github.com/studenton/ioe-oop/blob/master/old-questions/2062-Poush/q6.cpp)
 - [9. Write a program to read and display Cartesian Coordinate using stream operators.](https://github.com/studenton/ioe-oop/blob/master/old-questions/2062-Poush/q9.cpp)
 
+**2063 Baisakh**:
+- [6. Write a program to read and display complex numbers using stream operator overloading and addition and subtraction of complex numbers using operator overloading.](https://github.com/studenton/ioe-oop/blob/master/old-questions/2063-Baisakh/q6.cpp)
 
 **2068 Baisakh**:
 - [6. Write a program to display the output in pyramid form as follows.](https://github.com/studenton/ioe-oop/blob/master/old-questions/2068-Baisakh/q6.cpp)  
