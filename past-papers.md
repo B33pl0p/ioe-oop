@@ -16,6 +16,16 @@
 **2063 Baisakh**:
 - [6. Write a program to read and display complex numbers using stream operator overloading and addition and subtraction of complex numbers using operator overloading.](https://github.com/studenton/ioe-oop/blob/master/old-questions/2063-Baisakh/q6.cpp)
 
+**2064 Jestha**:
+- [8. Write a program that stores the information about the student(student id,DOB,department and address) in a structure until user says "no". After reading the data, write it to a file then display the content of the file in the proper format on your output screen.](https://github.com/studenton/ioe-oop/blob/master/old-questions/2064-Jestha/q8.cpp)
+
+**2064 Falgun**:
+- [2. Write a program to display n characters by using default argument for all parameters.Assume that the function takes two parameters one character to be printed and other number of characters to be printed.](https://github.com/studenton/ioe-oop/blob/master/old-questions/2064-Falgun/q2.cpp)
+
+**2065 Shrawan**:
+- [2. Write a program to check whether the number is prime or not using object class concept. Remember to return enumerated true or false the function where you check the number.](https://github.com/studenton/ioe-oop/blob/master/old-questions/2065-Shrawan/q2.cpp)
+
+
 **2068 Baisakh**:
 - [6. Write a program to display the output in pyramid form as follows.](https://github.com/studenton/ioe-oop/blob/master/old-questions/2068-Baisakh/q6.cpp)  
 A  
