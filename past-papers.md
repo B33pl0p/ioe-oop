@@ -40,3 +40,6 @@ ABCD
 
 **2070 Chaitra**:
 - [3. Write a C++ program to join two strings using dynamics constructor concept.](https://github.com/studenton/ioe-oop/blob/master/old-questions/2070-Chaitra/q3.cpp)
+
+**2072 Kartik**:
+- [3. WAP to calculate and display the cube of integer, float and double number using function overloading (passing single argument to the function](https://github.com/studenton/ioe-oop/blob/master/old-questions/2072-Kartik/q3.cpp)
