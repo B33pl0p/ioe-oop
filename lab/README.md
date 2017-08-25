@@ -1,5 +1,5 @@
-###Lab Questions
-####Lab 1
+### Lab Questions
+#### Lab 1
 1. WAP to check whether the entered number is prime or not using [POP](https://github.com/studenton/ioe-oop/blob/master/lab/Lab1/1_OOP.cpp) and [OOP](https://github.com/studenton/ioe-oop/blob/master/lab/Lab1/1_OOP.cpp) way.
 
 2. [WAP to calculate the net salary of an employee under the following condition](https://github.com/studenton/ioe-oop/blob/master/lab/Lab1/2.cpp):
@@ -9,7 +9,7 @@ c) Else bonus is 5%
 
 3. [Write a temperature conversion program from celcius to farhenheit and vice-versa depending on choice by the user.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab1/3.cpp)
 
-####Lab2
+#### Lab2
 1. [WAP to find the area of the triangle(when three sides are given) and the area of the triangle(when base and height are given) using function overloading and default argument.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab2/1.cpp)
 
 2. [WAP to find the volume of the cube, cuboid and cylinder using function overloading and default arguments.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab2/2.cpp)
@@ -25,7 +25,7 @@ c) Else bonus is 5%
 7. [WAP using new and delete operators to store n numbers dynamically and find the average of the numbers by using casting operator.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab2/7.cpp)
 
 
-####Lab3
+#### Lab3
 1. [WAP that shows the concept of namespace.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab3/1.cpp)
 
 2. [WAP with function that uses pass by reference to change meter to centimeter. Use pass by reference along with the namespace.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab3/2.cpp)
@@ -36,7 +36,7 @@ c) Else bonus is 5%
 
 5. [Write a temperature conversion program to convert celcius to Fahrenheit and vice versa. The choice entered by the user. Use concept of class and object.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab3/5.cpp)
 
-####Lab4
+#### Lab4
 1. [WAP with a class to represent rectangle. The program should have constructors and other member functions to customise areas and perimeter and display area and perimeter.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab4/1.cpp)
 
 2. [Create a class complex with two member variables real and imaginary of type float. Write default, parameterized and copy constructors. Make necessary function to display state of the object on the screen.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab4/2.cpp)
@@ -47,7 +47,7 @@ c) Else bonus is 5%
 
 5. [WAP with class to represent complex number. The program should be able to find sum of the two complex numbers. The member function to calculate sum should have two objects as an argument.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab4/5.cpp)
 
-####Lab5
+#### Lab5
 1. [WAP that will have a class with members name, roll number, directory, filename and other member functions as required. All of the objects will share two members directory and filename where the information of student is stored.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab5/1.cpp)
 
 2. [WAP that will allocate memory dynamically for the pointer member of the string class that point to character array. Write a meaningful program for string manipulation.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab5/2.cpp)
@@ -62,7 +62,7 @@ c) Else bonus is 5%
 
 7. [WAP to add and subtract two distances by using the concept of object as an argument and returning the object by the function. The distance has feet and inches as the member.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab5/7.cpp)
 
-####Lab 6
+#### Lab 6
 1. [WAP using friend function to compare the data member of two diffferent classes and display the largest one.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab6/1.cpp)
 
 2. [WAP to add member of objects of two different classes using friend function.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab6/1.cpp)
@@ -73,7 +73,7 @@ c) Else bonus is 5%
 
 5. [Write a meaningful program that shows the concept of friend class.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab6/1.cpp)
 
-####Lab 7
+#### Lab 7
 1. [WAP to overload unary prefix(++) using member operator function and unary prefix(--) using friend function.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab7/1.cpp)
 
 2. [WAP to concatenate two strings using the concept of operator overloading (+).](https://github.com/studenton/ioe-oop/blob/master/lab/Lab7/2.cpp)
@@ -88,7 +88,7 @@ c) Else bonus is 5%
 
 7. [Write a class having an array as member. Overload the index operator( [] ) to input and display the elements.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab7/7.cpp)
 
-####Lab 8
+#### Lab 8
 1. [WAP to add two matrices by overloading + operator.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab8/1.cpp)
 
 2. [WAP to achieve operation like c2 = 2 + c1, where c1 and c2 are complex numbers. Also for c2 = c1 + 2 using operator overloading.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab8/2.cpp)
@@ -101,7 +101,7 @@ c) Else bonus is 5%
 
 6. [WAP to convert type of object of polar class to rectangle class and vice versa. Apply constructor functions in both the class.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab8/6.cpp)
 
-####Lab 9
+#### Lab 9
 1. [WAP that will inherit a class where member are increased by its member function. The derived class should override the function that increase its member in the derived class that will add increment of the derived class data member. Create other meaningful function that suit your requirement.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab9/1.cpp)
 
 2. [WAP to show ambiguity and its resolution in multiple inheritance.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab9/1.cpp)
@@ -114,7 +114,7 @@ c) Else bonus is 5%
 
 6. [Define a class publication which has a title. Derive two classes from it. A class book which has an accession number and a class magazine which has volume number. With these two as bases, derive the class journal. Define a function print() in each of these classes. Ensure that the derived class function always invokes the base class function. In main, create  a journal called IEEOOP with an accession number 681.3 and a volume number 1. Invoke the print() function for this object.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab9/1.cpp)
 
-####Lab 10
+#### Lab 10
 1. [WAP that shows runtime polymorphism in C++.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab10/1.cpp)
 
 2. [WAP having student as an abstract class and create derived class such as engineering, science and medical. Create their objects, process them and access them using base class pointer.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab10/2.cpp)
@@ -127,7 +127,7 @@ c) Else bonus is 5%
 a) [dynamic_cast](https://github.com/studenton/ioe-oop/blob/master/lab/Lab10/5a.cpp)
 b) [typeid](https://github.com/studenton/ioe-oop/blob/master/lab/Lab10/5b.cpp)
 
-####Lab 11
+#### Lab 11
 1. [WAP with class template to represent array and add member functions to find minimum, maximum and sort the generic array.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab11/q1.cpp)
 
 2. [WAP for finding the sum and average of an array elements using function template.](https://github.com/studenton/ioe-oop/blob/master/lab/Lab11/q2.cpp)
